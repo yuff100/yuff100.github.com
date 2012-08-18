@@ -11,3 +11,5 @@ date: 2012-08-18 13:07:00
    难能可贵的是，在撰写这些优秀项目、文章的工程师中，有2位华人，并且都是mm。一位是[Hairong Kuang](http://www.linkedin.com/in/kuanghairong)，Facebook分布式文件管理系统的领军人，HDFS系统的创始人之一。另一位是传奇的变性mm[唐凤Audrey Tang](http://zh.wikipedia.org/zh/%E5%94%90%E9%B3%B3)，Pugs专案的发起人，领导Haskell和Perl社群协力开发Perl 6语言。
 
    现在还是爷们的华人工程师该雄起了！！
+
+![](http://www.aosabook.org/images/cover1.jpg)![](http://www.aosabook.org/images/cover2.jpg)
