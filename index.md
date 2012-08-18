@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 首页
+title: 残星说梦话
 tagline:
 ---
 {% include JB/setup %}
