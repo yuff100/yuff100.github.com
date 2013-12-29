@@ -41,7 +41,7 @@ date: 2013-12-29 18:40:00
 	装node.js：
 		cinst nodejs.install
 
-具体有多少package能装，自己上http://chocolatey.org/去看吧。
+具体有多少package能装，自己上http://chocolatey.org/去看吧。另外，用clist可以搜索支持的package，比方说我要装ruby的devkit，可以clist devkit。
 
 有些在中文Windows环境下折腾的tx也许会发现ls出来的中文文件目录咋全是问号呢？执行一条命令出来的中文提示咋都挤在一块看不清楚呢？vi打开的中文文件咋都是乱码呢？
 
