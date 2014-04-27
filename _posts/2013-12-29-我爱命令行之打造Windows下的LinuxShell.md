@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Linux
-tags : [Linux， CLI]
+category : 我爱命令行
+tags : [Linux， CLI， 我爱命令行]
 date: 2013-12-29 18:40:00
 ---
 {% include JB/setup %}
