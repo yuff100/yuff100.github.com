@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Linux
-tags : [Linux][CLI]
+tags : [Linux， CLI]
 date: 2013-12-29 18:40:00
 ---
 {% include JB/setup %}
