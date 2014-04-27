@@ -1,6 +1,6 @@
 ---
 layout: post
-category : 我爱命令行
+category : Linux
 tags : [Linux， CLI， 我爱命令行]
 date: 2013-12-29 18:40:00
 ---
